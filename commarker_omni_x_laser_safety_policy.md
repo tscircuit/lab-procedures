@@ -1,14 +1,5 @@
 # ComMarker Omni X Laser Safety Policy for PCB Etching
 
-**Document owner:** ___________________________  
-**Primary operator / person handling the laser:** ___________________________  
-**Lab / location:** ___________________________  
-**Equipment:** ComMarker Omni X laser used for PCB etching, marking, or ablation  
-**Equipment serial number:** ___________________________  
-**Laser wavelength / class from manufacturer label:** ___________________________  
-**Effective date:** ___________________________  
-**Review trigger:** Before first use, after any incident, and after any equipment, enclosure, ventilation, material, or process change
-
 ## 1. Purpose
 
 This policy defines the mandatory safety rules for operating the ComMarker Omni X laser in the lab for PCB etching, marking, or material removal. It is intended to prevent injury, fire, property damage, and hazardous exposure to fumes or particulates.
@@ -218,14 +209,6 @@ By signing below, I acknowledge that:
 - I agree to operate the laser only when trained, unimpaired, and following the safe procedure.
 - I agree not to bypass safety controls, operate the laser unattended, use unsuitable materials, or allow untrained operation.
 - I agree to report incidents, near misses, equipment faults, and unsafe conditions immediately.
-
-| Name | Role | Signature | Date |
-|---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 ## 16. References for Safety Basis
 
