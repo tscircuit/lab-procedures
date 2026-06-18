@@ -10,3 +10,6 @@ These documents are intended to prevent injury, fire, property damage, equipment
 | --- | --- |
 | Bambu Lab P2S 3D printer | [Bambu Lab P2S 3D Printer Safety Policy](./bambu_p2s_3d_printer_safety_policy.md) |
 | ComMarker Omni X laser for PCB etching | [ComMarker Omni X Laser Safety Policy for PCB Etching](./commarker_omni_x_laser_safety_policy.md) |
+| Heat insert tool | [Heat Insert Tool Safety Policy](./heat_insert_tool_safety_policy.md) |
+| Lab oven | [Oven Safety Policy](./oven_safety_policy.md) |
+| Soldering iron | [Soldering iron Policy](./soldering_iron_safety_policy.md) |
