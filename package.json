@@ -1,0 +1,13 @@
+{
+  "name": "lab-procedures",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "md-to-pdf": "node scripts/md-to-pdf.js"
+  },
+  "dependencies": {
+    "marked": "^15.0.7",
+    "puppeteer-core": "^24.1.1"
+  }
+}

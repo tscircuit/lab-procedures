@@ -200,7 +200,14 @@ After each job, the operator shall:
 
 Every employee has authority to stop laser work if they believe conditions are unsafe. Work may resume only when the unsafe condition is corrected and the person handling the laser has confirmed the setup is safe.
 
-## 15. Employee Acknowledgement
+## 15. References for Safety Basis
+
+- OSHA Technical Manual, Section III, Chapter 6, "Laser Hazards."
+- ANSI Z136 series, especially ANSI Z136.1, "Safe Use of Lasers."
+- Manufacturer manual, label, and specifications for the exact ComMarker Omni X unit installed in the lab.
+- Safety data sheets and supplier information for PCB substrates, solder mask, coatings, adhesives, and cleaning chemicals used in the lab.
+
+## 16. Acknowledgement
 
 By signing below, I acknowledge that:
 
@@ -209,10 +216,3 @@ By signing below, I acknowledge that:
 - I agree to operate the laser only when trained, unimpaired, and following the safe procedure.
 - I agree not to bypass safety controls, operate the laser unattended, use unsuitable materials, or allow untrained operation.
 - I agree to report incidents, near misses, equipment faults, and unsafe conditions immediately.
-
-## 16. References for Safety Basis
-
-- OSHA Technical Manual, Section III, Chapter 6, "Laser Hazards."
-- ANSI Z136 series, especially ANSI Z136.1, "Safe Use of Lasers."
-- Manufacturer manual, label, and specifications for the exact ComMarker Omni X unit installed in the lab.
-- Safety data sheets and supplier information for PCB substrates, solder mask, coatings, adhesives, and cleaning chemicals used in the lab.

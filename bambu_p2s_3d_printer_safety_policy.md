@@ -267,7 +267,14 @@ Do not blow plastic dust, fibers, or debris into the room with compressed air.
 
 Every employee has authority to stop 3D printing work if they believe conditions are unsafe. Work may resume only when the unsafe condition is corrected and the person handling the printer has confirmed the setup is safe.
 
-## 18. Employee Acknowledgement
+## 18. References for Safety Basis
+
+- Manufacturer manual, labels, specifications, and maintenance instructions for the exact Bambu Lab P2S unit installed in the lab.
+- Safety data sheets and supplier information for filament materials, adhesives, cleaners, lubricants, and solvents used in the lab.
+- OSHA general industry safety principles for machine guarding, electrical safety, fire prevention, hazard communication, and personal protective equipment.
+- NIOSH and other occupational health guidance regarding emissions from heated thermoplastics and additive manufacturing processes.
+
+## 19. Acknowledgement
 
 By signing below, I acknowledge that:
 
@@ -276,17 +283,3 @@ By signing below, I acknowledge that:
 - I agree to operate the printer only when trained, unimpaired, and following the safe procedure.
 - I agree not to bypass safety controls, operate damaged equipment, use unsuitable materials, leave abnormal prints running, or allow untrained operation.
 - I agree to report incidents, near misses, equipment faults, unsafe conditions, smoke, fire, abnormal odors, and injuries immediately.
-
-Employee name: ______________________________
-
-Employee signature: ___________________________
-
-Date: _______________________________________
-
-
-## 19. References for Safety Basis
-
-- Manufacturer manual, labels, specifications, and maintenance instructions for the exact Bambu Lab P2S unit installed in the lab.
-- Safety data sheets and supplier information for filament materials, adhesives, cleaners, lubricants, and solvents used in the lab.
-- OSHA general industry safety principles for machine guarding, electrical safety, fire prevention, hazard communication, and personal protective equipment.
-- NIOSH and other occupational health guidance regarding emissions from heated thermoplastics and additive manufacturing processes.

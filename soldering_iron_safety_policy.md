@@ -273,7 +273,14 @@ Operators shall:
 
 Every employee has authority to stop soldering work if they believe conditions are unsafe. Work may resume only when the unsafe condition is corrected and the person handling the soldering equipment has confirmed the setup is safe.
 
-## 18. Employee Acknowledgement
+## 18. References for Safety Basis
+
+- Manufacturer manuals, labels, specifications, and maintenance instructions for the soldering irons, soldering stations, fume extractors, and related tools used in the lab.
+- Safety data sheets and supplier information for solder, flux, cleaners, solvents, adhesives, conformal coatings, and other soldering materials.
+- OSHA general industry safety principles for personal protective equipment, hazard communication, electrical safety, fire prevention, and safe work practices.
+- NIOSH and other occupational health guidance regarding soldering fumes, flux fumes, lead exposure, and local exhaust ventilation.
+
+## 19. Acknowledgement
 
 By signing below, I acknowledge that:
 
@@ -282,17 +289,3 @@ By signing below, I acknowledge that:
 - I agree to solder only when trained, unimpaired, and following the safe procedure.
 - I agree not to leave hot tools unattended, bypass safety controls, solder on unsafe circuits, use damaged equipment, skip fume extraction, or allow untrained operation.
 - I agree to report incidents, near misses, equipment faults, unsafe conditions, smoke, fire, abnormal odors, and injuries immediately.
-
-Employee name: ______________________________
-
-Employee signature: ___________________________
-
-Date: _______________________________________
-
-
-## 19. References for Safety Basis
-
-- Manufacturer manuals, labels, specifications, and maintenance instructions for the soldering irons, soldering stations, fume extractors, and related tools used in the lab.
-- Safety data sheets and supplier information for solder, flux, cleaners, solvents, adhesives, conformal coatings, and other soldering materials.
-- OSHA general industry safety principles for personal protective equipment, hazard communication, electrical safety, fire prevention, and safe work practices.
-- NIOSH and other occupational health guidance regarding soldering fumes, flux fumes, lead exposure, and local exhaust ventilation.
