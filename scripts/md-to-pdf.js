@@ -179,23 +179,16 @@ function createHtmlDocument(title, content) {
         padding-left: 0.75em;
       }
 
-      .signature-section {
+      .signature-fields {
         break-inside: avoid;
-        border-top: 1px solid #bcccdc;
-        margin-top: 0.75in;
+        margin-top: 0.45in;
         padding-top: 0.35in;
-      }
-
-      .signature-section h2 {
-        font-size: 14pt;
-        margin-top: 0;
       }
 
       .signature-grid {
         display: grid;
         gap: 0.35in;
         grid-template-columns: 1fr 1fr;
-        margin-top: 0.35in;
       }
 
       .signature-line {
@@ -211,20 +204,13 @@ function createHtmlDocument(title, content) {
   </head>
   <body>
     ${content}
-    <section class="signature-section">
-      <h2>Signature</h2>
+    <section class="signature-fields">
       <div class="signature-grid">
-        <div class="signature-line">
-          <div class="signature-label">Printed Name</div>
-        </div>
         <div class="signature-line">
           <div class="signature-label">Signature</div>
         </div>
         <div class="signature-line">
           <div class="signature-label">Date</div>
-        </div>
-        <div class="signature-line">
-          <div class="signature-label">Supervisor / Reviewer</div>
         </div>
       </div>
     </section>
