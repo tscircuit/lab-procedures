@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "md-to-pdf": "node scripts/md-to-pdf.mjs"
+    "md-to-pdf": "node scripts/md-to-pdf.js"
   },
   "dependencies": {
     "marked": "^15.0.7",
